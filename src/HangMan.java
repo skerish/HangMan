@@ -43,7 +43,7 @@ public class HangMan {
                 System.out.print(word_dash[i] + " ");
             }
         }
-        System.out.println("Congrats! You won.");
+        System.out.println("\nCongrats! You won.");
     }
 
 }
